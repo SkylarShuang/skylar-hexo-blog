@@ -1,5 +1,6 @@
 ---
-title: Hello World
+title: 自学前端进阶之路
+cover: "https://images.unsplash.com/photo-1646854303811-43d6065917c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=584&q=80"
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
@@ -17,7 +18,7 @@ More info: [Writing](https://hexo.io/docs/writing.html)
 
 ``` bash
 $ hexo server
-```
+```        
 
 More info: [Server](https://hexo.io/docs/server.html)
 
