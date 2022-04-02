@@ -1,5 +1,8 @@
 ---
 title: weex框架浅析
+cover: "https://images.unsplash.com/photo-1535476593072-5a085be9f713?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODB8fGFuaW1hbCUyMGxvdmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+categories: 
+     - 框架
 ---
 
 ## 1.跨端框架 

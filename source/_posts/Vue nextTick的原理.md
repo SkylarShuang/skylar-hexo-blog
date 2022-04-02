@@ -1,6 +1,8 @@
 ---
 title: vue nextTick的原理
 cover: "https://media.istockphoto.com/photos/dog-dreaming-picture-id1323095288?k=20&m=1323095288&s=612x612&w=0&h=ZC2DNmAcpDlMlNof1ojUXpItMhXggVfXFqnIZHU3NX4="
+categories: 
+     - Vue
 ---
 
 

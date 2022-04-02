@@ -1,6 +1,8 @@
 ---
-title: Vue3调试环境准备
+title: Vue3异步组件的原理
 cover: "https://images.unsplash.com/photo-1548802673-380ab8ebc7b7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGFuaW1hbCUyMGxvdmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+categories: 
+     - Vue
 ---
 
 [首先请参考Vue异步组件的用法](https://cn.vuejs.org/v2/guide/components-dynamic-async.html#%E5%BC%82%E6%AD%A5%E7%BB%84%E4%BB%B6)
