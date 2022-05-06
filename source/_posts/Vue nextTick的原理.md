@@ -1,6 +1,7 @@
 ---
 title: vue nextTick的原理
-cover: "https://media.istockphoto.com/photos/dog-dreaming-picture-id1323095288?k=20&m=1323095288&s=612x612&w=0&h=ZC2DNmAcpDlMlNof1ojUXpItMhXggVfXFqnIZHU3NX4="
+cover: "https://cdn.pixabay.com/photo/2018/06/13/18/20/waves-3473335_960_720.jpg"
+feature: true
 categories: 
      - Vue
 ---

@@ -1,6 +1,6 @@
 ---
 title: Vue3异步组件的原理
-cover: "https://images.unsplash.com/photo-1548802673-380ab8ebc7b7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGFuaW1hbCUyMGxvdmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+cover: "https://cdn.pixabay.com/photo/2016/06/27/07/30/elvis-presley-1482026_960_720.jpg"
 categories: 
      - Vue
 ---

@@ -10,14 +10,14 @@
 #! ---------------------------------------------------------------
 site:
   subtitle: Skylar's Blog
-  author: 动物园园长
+  author: Skylar
   nick: Skylar
-  description: '喜欢代码的动物园园长🐒'
+  description: 'code ++'
   link: 'https://github.com/SkylarShuang'
   language: cn
   multi_language: true
-  logo: https://images.unsplash.com/photo-1616207787467-20787d4cbf8a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjEzfHxhbmltYWwlMjBsb3ZlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60
-  avatar: https://images.unsplash.com/photo-1616207787467-20787d4cbf8a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjEzfHxhbmltYWwlMjBsb3ZlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60
+  logo: https://i.ibb.co/JRfLsky/Wechat-IMG26.jpg
+  avatar: https://i.ibb.co/JRfLsky/Wechat-IMG26.jpg
   beian:
     number: ''
     link: ''
@@ -53,7 +53,7 @@ menu:
 #! @docs https://aurora.tridiamond.tech/guide/theme.html
 #! ---------------------------------------------------------------
 theme:
-  dark_mode: false
+  dark_mode: true
   profile_shape: circle # support `circle`, `diamond`, `rounded`
   feature: true
   gradient:

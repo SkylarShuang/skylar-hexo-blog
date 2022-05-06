@@ -1,3 +1,9 @@
+---
+title: JS core简介
+cover: "https://pixabay.com/get/g17637b9e4cf5365e43a4133b81e33267028da42d02a4dceb80a7aa7e9f7ebd7f275104e23d1eb52b1673164fe475938e7aa42b9be72f589e42e955d9ae9aa9df_1920.jpg"
+categories: 
+     - JS原理
+---
 # JS core
 
 ## GC机制：Tracing Garbage Collection
@@ -12,7 +18,7 @@
 
 JSVM是一个抽象的虚拟机。不同JSVM执行不同的任务，每个JSContext都从属于一个JSVM，每个JSVM都有自己独立的堆空间，GC也只能处理JSVM内部的对象，不同的JSVM之间无法进行传值。JSVM和JS Context之间的关系如下：
 
-![Untitled](JS%20core%20f138c773fc784ae3973abeaa68fe0a57/Untitled.png)
+![Untitled](https://github.com/SkylarShuang/blog_images/blob/main/Untitled%201.png?raw=true)
 
 ## ****JSExport****
 
@@ -26,4 +32,4 @@ JSValue实例是一个指向JS值的引用指针。我们可以使用JSValue类�
 
 JSCore给iOS App提供了JS可以解释执行的运行环境与资源。对于我们实际开发而言，最主要的就是JSContext和JSValue这两个类。JSContext提供互相调用的接口，JSValue为这个互相调用提供数据类型的桥接转换。让JS可以执行Native方法，并让Native回调JS，反之亦然。
 
-![Untitled](JS%20core%20f138c773fc784ae3973abeaa68fe0a57/Untitled%201.png)
+![Untitled](https://github.com/SkylarShuang/blog_images/blob/main/Untitled.png?raw=true)

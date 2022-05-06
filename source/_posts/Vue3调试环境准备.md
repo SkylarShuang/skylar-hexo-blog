@@ -1,6 +1,6 @@
 ---
 title: Vue3调试环境准备
-cover: "https://images.unsplash.com/photo-1573865526739-10659fec78a5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YW5pbWFsJTIwbG92ZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+cover: "https://cdn.pixabay.com/photo/2021/11/25/19/50/tape-6824489_960_720.jpg"
 categories: 
      - Vue
 ---
